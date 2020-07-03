@@ -1,0 +1,9 @@
+﻿<Application x:Class="OrgStructure.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:OrgStructure"
+             StartupUri="WPF/_0_CompanyInfo.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
